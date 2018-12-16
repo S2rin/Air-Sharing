@@ -14,24 +14,24 @@
 
 * Air-Sharing : IoT기반 실시간 미세먼지 모니터링 서비스
 
-  <img src="/Image/AirSharing-1.png" width="60%" height="60%">
+  <img src="/Image/AirSharing-1.png" width="70%" height="70%">
 
 
 ### 3. Architecture
 
 * Hardware architecture
 
-<img src="Image/AirSharing-2.jpg" width="60%" height="60%">
+<img src="Image/AirSharing-2.jpg" width="70%" height="70%">
 
 
 
 * Software architecture
 
-<img src="/Image/AirSharing-3.png" width="60%" height="60%">
+<img src="/Image/AirSharing-3.png" width="70%" height="70%">
 
 
 ### 4. UI Storyboard (APP)
 
 * Login / Home / Dashboard / Map / Community
 
-![애플리케이션 UI](/Image/AirSharing-4.png)
+<img src="/Image/AirSharing-4.png" width="70%" height="70%">
