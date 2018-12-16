@@ -9,11 +9,13 @@
 
   따라서, 개인의 위치가 반영된 실시간 공기 및 미세먼지 모니터링 서비스와 이를 시각적으로 현재 미세먼지 수치를 확인하며 다른 사용자의 IoT디바이스로 측정된 수치를 공유하여 개인이 알고 싶은 위치의 정확한 미세먼지 농도를 검색할 수 있는 플랫폼을 제공하는 서비스가 요구 된다.
 
+
 ### 2. What is Air-Sharing?
 
 * Air-Sharing : IoT기반 실시간 미세먼지 모니터링 서비스
 
   ![AirSharing-서비스 개요](/Image/AirSharing-1.png)
+
 
 ### 3. Architecture
 
@@ -22,9 +24,11 @@
 ![하드웨어 구성도](Image/AirSharing-2.jpg)
 
 
+
 * Software architecture
 
 ![소프트웨어 구성도](/Image/AirSharing-3.png)
+
 
 ### 4. UI Storyboard (APP)
 
