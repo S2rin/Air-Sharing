@@ -13,7 +13,7 @@
 
 * Air-Sharing : IoT기반 실시간 미세먼지 모니터링 서비스
 
-  ![AirSharing-서비스 개요](https://github.com/S2rin/S2rin.github.io/blob/master/images/AirSharing-1.png?raw=true = 200x200)
+  ![AirSharing-서비스 개요](/Images/AirShairng-1.png)
 
 ### 3. Architecture
 
